@@ -27,3 +27,15 @@ eg which python
 ## wc
 is used to return the number of wordds in a text file
 eg we test2.txt
+
+## useradd
+is used to add user
+eg useradd seyi
+
+## su 
+is used to switch user
+eg sudo su
+
+## passwd
+is used to add password to a user
+eg passwwd seyi
